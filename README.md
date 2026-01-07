@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/bn-apps/e50c7c9f-b762-4770-9e14-6b1f5700131c/8ca248c7-0c8f-4d9f-9acf-e350d9f92c52/_apis/work/boardbadge/76b2da7e-50be-47f8-be91-dd71408ee0c8)](https://dev.azure.com/bn-apps/e50c7c9f-b762-4770-9e14-6b1f5700131c/_boards/board/t/8ca248c7-0c8f-4d9f-9acf-e350d9f92c52/Microsoft.RequirementCategory)
 DQX by Databricks Labs
 ===
 
